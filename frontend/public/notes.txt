@@ -1,0 +1,11 @@
+Below changes are done in frontend:
+
+1. LoginSignup.jsx file
+
+2. Navbar.jsx file (logout button)
+
+3. ShopCOntext.jsx file
+
+4. NewCollection.jsx ... to load new NewCollection data from backend
+
+5. Popular.jsx file ... to load Popular data from backend
